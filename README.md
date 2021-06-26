@@ -1,5 +1,5 @@
 # controle-series
-Parte 1 do projeto desenvolvido para estudo sobre a Linguagem Laravel.
+Parte 1 do projeto desenvolvido para estudo sobre a linguagem Laravel.
 A aplicação para controle de séries foi feita da seguinte maneira:
 
 - Preparando o ambiente:
