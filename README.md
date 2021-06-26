@@ -2,7 +2,7 @@
 Parte 1 do projeto desenvolvido para estudo sobre a Linguagem Laravel.
 A aplicação para controle de séries foi feita da seguinte maneira:
 
-- Preparando o ambiente:
+    - Preparando o ambiente:
     - instalação do php;
     - instalação do Composer:
         O que é Composer?
