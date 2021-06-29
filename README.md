@@ -1,5 +1,5 @@
 # controle-series
-Parte 1 do projeto desenvolvido para estudo sobre a linguagem Laravel.
+ Projeto desenvolvido para estudo sobre a linguagem Laravel (Completo).
 A aplicação para controle de séries foi feita da seguinte maneira:
 
 - Preparando o ambiente:
@@ -25,3 +25,11 @@ A aplicação para controle de séries foi feita da seguinte maneira:
 - Eloquent ORM: </br>
     O Eloquent é uma ferramenta de ORM (Object Relational Mapping), ou seja, de mapeamento de um modelo orientado a objetos para um modelo relacional do banco de dados.
 De forma mais simples: um ORM pega o que temos orientado a objetos e manda de volta ao banco de dados de forma relacional (em forma de querys), e busca no banco de dados (pelas queries) e nos traz em forma de objetos.
+- Collections: </br>
+     O Laravel nos fornece uma API de coleções. Com ela, se tem acesso a vários métodos para manipular os dados contidos em uma coleção. Conforme é citado na documentação, os resultados retornados pelo Eloquent (ORM do Laravel) são coleções.
+- Middlewares: </br>
+    Os Middlewares podem manipular a requisição antes dela chegar ao Controller, ou até mesmo manipular a resposta depois disso.
+- Facade Aut: </br>
+    Este método espera receber os dados necessários para buscar um usuário no banco de dados, e ao encontrá-lo, realiza o processo de login, salvando os dados do usuário na sessão. 
+- Testes Automatizados.
+  
